@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio.eldoradio" name="[COLOR orange]eldoradio*[/COLOR]" version="1.0.0" provider-name="adiko01">
+<addon id="plugin.audio.eldoradio" name="[COLOR orange]eldoradio*[/COLOR]" version="1.0.1" provider-name="adiko01">
     <requires>
 		<import addon="xbmc.python" version="2.26.0"/>
 	</requires>
@@ -13,7 +13,8 @@
 		<description lang="de_DE">Höre den Campussender aus Dortmund \n eldoradio* </description>
 		<summary lang="en_GB">eldoradio*</summary>
 		<description lang="en_GB">Hear the german university radio from Dortmund \n eldoradio* </description>
-		<language>de</language>	
+		<language>de</language>
+		<email>dev@adiko01.de</email>
 		<source>https://github.com/adiko01/plugin.audio.eldoradio</source>
 		<assets>
 			<icon>resources/icon.png</icon>
