@@ -10,9 +10,15 @@
 		<platform>all</platform>
 		<license>CC-BY-SA-4.0</license>
 		<summary lang="de_DE">eldoradio*</summary>
-		<description lang="de_DE">Höre den Campussender aus Dortmund \n eldoradio* </description>
+		<description lang="de_DE">
+			Höre den Campussender aus Dortmund
+			eldoradio*
+		</description>
 		<summary lang="en_GB">eldoradio*</summary>
-		<description lang="en_GB">Hear the german university radio from Dortmund \n eldoradio* </description>
+		<description lang="en_GB">
+			Hear the german university radio from Dortmund
+			eldoradio*
+		</description>
 		<language>de</language>
 		<email>dev@adiko01.de</email>
 		<source>https://github.com/adiko01/plugin.audio.eldoradio</source>
